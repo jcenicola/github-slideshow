@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is git pull / push training
+update my-slide
 Use the left arrow to go back!
